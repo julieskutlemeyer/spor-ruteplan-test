@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to Remix",
+  "links": {
+    "one": "15m Quickstart Blog Tutorial",
+    "two": "Deep Dive Jokes App Tutorial",
+    "three": "Remix Docs"
+  }
+}

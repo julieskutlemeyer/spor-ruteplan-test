@@ -1,0 +1,1 @@
+import{n as s,M as e,L as n,O as a,S as l}from"./components-CG1rVBqy.js";function t(){return s.jsxs("html",{children:[s.jsx("html",{lang:"en"}),s.jsxs("head",{children:[s.jsx("link",{rel:"icon",href:"data:image/x-icon;base64,AA"}),s.jsx(e,{}),s.jsx(n,{})]}),s.jsxs("body",{children:[s.jsx("h1",{children:"Hello world!"}),s.jsx(a,{}),s.jsx(l,{})]})]})}export{t as default};
